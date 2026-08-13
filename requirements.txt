@@ -2,7 +2,9 @@ fastapi
 uvicorn
 python-jose
 pydantic
+pydantic-settings
 redis
 scikit-learn
 joblib
 prometheus-client
+python-multipart
